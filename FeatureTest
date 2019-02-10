@@ -1,1 +1,7 @@
+#Include stdio.h
+void main()
+{
+Printf { "This is a test"};
+}
+=======
 This is conflict test
